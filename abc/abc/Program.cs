@@ -13,6 +13,7 @@ namespace abc
             string s = "xcvxcv12";
             Console.WriteLine(s.Length);
             Console.WriteLine(s);
+            Console.ReadKey();
         }
     }
 }
